@@ -2,3 +2,6 @@ Welcome to Git Eclipse Repository.
 This is test file1.
 This is test file2.
 This is test file3.
+This is test file4.
+This is test file5.
+This is test file6.
